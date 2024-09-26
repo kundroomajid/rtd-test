@@ -13,9 +13,9 @@
 
 Follow these steps to set up and use this repository:
 
-1. Clone the Repository
+- Clone the Repository
 
-    ```bash
+    ```
     git clone https://github.com/nclabteam/flwr-torch.git
     ```
 2. After clone cd into cloned directory and open terminal.
