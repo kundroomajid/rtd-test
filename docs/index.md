@@ -30,10 +30,10 @@ If you use FedEasy in your research, please cite our work:
 
 ```bibtex
 @software{FedEasy2024,
-  author = {Your Name},
+  author = {NCLAB Team},
   title = {FedEasy: Federated Learning With Ease},
   year = {2024},
-  url = {https://github.com/yourusername/FedEasy},
+  url = {https://github.com/nclabteam/FedEasy},
   version = {1.0.0}
 }
 ```
@@ -42,8 +42,8 @@ If you use FedEasy in your research, please cite our work:
 
 For questions, suggestions, or collaborations, please reach out to:
 
-- **Email**: Your Name (your.email@example.com)
-- **GitHub Issues**: For bug reports and feature requests, please use our [GitHub Issues page](https://github.com/yourusername/FedEasy/issues)
+- **Email**: Your Name (nclabteam@gmail.com)
+- **GitHub Issues**: For bug reports and feature requests, please use our [GitHub Issues page](https://github.com/nclabteam/FedEasy/issues)
 
 We welcome contributions from the community! Check out our [Contribution Guidelines](CONTRIBUTING.md) to get started.
 
