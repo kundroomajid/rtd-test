@@ -31,7 +31,7 @@ If you use FedEasy in your research, please cite our work:
 ```bibtex
 @software{FedEasy2024,
   author = {Your Name},
-  title = {FedEasy: Simplified Federated Learning with Flower and PyTorch},
+  title = {FedEasy: Simplified Federated Learning Framework},
   year = {2024},
   url = {https://github.com/yourusername/FedEasy},
   version = {1.0.0}
