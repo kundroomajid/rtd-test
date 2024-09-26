@@ -26,7 +26,7 @@ author = "Read the Docs core team"
 # -- General configuration
 
 extensions = [
-    
+    'sphinx_rtd_theme'
 ]
 
 intersphinx_mapping = {
