@@ -1,7 +1,7 @@
 site_name: FedEasy
 theme: readthedocs
 
-pages:
+nav:
   Home: index.md
   Installaton & Setup: install.md
   Confugration: config.md
