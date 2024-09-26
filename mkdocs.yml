@@ -2,10 +2,10 @@ site_name: FedEasy
 theme: readthedocs
 
 nav:
-  Home: index.md
-  Installaton & Setup: install.md
-  Confugration: config.md
-  Datasets: datasets.md
-  Data Distributions: data_distribution.md
-  Models : models.md
-  Strategies: strategies.md
+  - Home: index.md
+  - Installaton & Setup: install.md
+  - Confugration: config.md
+  - Datasets: datasets.md
+  - Data Distributions: data_distribution.md
+  - Models : models.md
+  - Strategies: strategies.md
